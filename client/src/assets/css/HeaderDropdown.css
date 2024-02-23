@@ -3,20 +3,24 @@
     position: relative;
 }
 .header-dropdown ul {
-    background-color: whitesmoke;
+    background-color: #EEF8FD;
     color: black;
     display: none;
-    width: 8rem;
+    width: 11rem;
+    border-radius: 0.1rem;
 }
 
 .header-dropdown li {
     padding: 0.25em 0.5em;
     height: 2rem;
-    margin-top: 1rem;
+    justify-content: center;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
 }
 
 .header-dropdown a {
-    color: black;
+    color: #1C0461;
     text-decoration: none;
 }
 

@@ -2,10 +2,12 @@ footer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     height: 3.75rem;
+}
+.bookstore-footer-home-bg{
     background: #EEF8FD;
 }
 
-.category-page footer{
+.bookstore-footer-others-bg{
     background: #D6F3FF;
 }
 
