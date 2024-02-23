@@ -5,21 +5,7 @@ import {Link} from "react-router-dom";
 
 function AppFooter(){
 return(
-    <>
-        {/*<footer className="container">*/}
-        {/*    <section className="links">*/}
-        {/*        <Link to="/">about</Link>*/}
-        {/*        <Link to="/">contact</Link>*/}
-        {/*        <Link to="/">directions</Link>*/}
-        {/*    </section>*/}
-        {/*    <section className="social-media-icons">*/}
-        {/*        <Link to="/" className="button">Facebook</Link>*/}
-        {/*        <Link to="/" className="button">Twitter</Link>*/}
-        {/*    </section>*/}
-        {/*</footer>*/}
-
-
-        <footer className="container">
+    <footer className="container">
             <section className="links">
                 <Link to="/">
                     <svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -85,8 +71,6 @@ return(
                 </a>
             </section>
         </footer>
-
-    </>
 )
 }
 

@@ -8,22 +8,24 @@ import {
   Routes,
   Route,
 } from "react-router-dom"
+import './App.css'
 
 
 function App() {
   return (
+
       <Router>
-        <AppHeader />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/categories" element={<CategoryBookList />} />
-          <Route path="*" element={<div>Page Not Found</div>} />
-        </Routes>
-
-        <AppFooter />
-
+              <AppHeader/>
+              <Routes>
+                  <Route path="/" element={<Home/>}/>
+                  <Route path="/categories" element={<CategoryBookList/>}/>
+                  <Route path="*" element={<div>Page Not Found</div>}/>
+              </Routes>
+              <AppFooter/>
       </Router>
-  );
+
+)
+    ;
 }
 
 export default App;

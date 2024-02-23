@@ -29,6 +29,7 @@
     --primary-background-color: whitesmoke;
     --secondary-background-color: burlywood;
     --card-background-color: navajowhite;
+    display: grid;
 }
 
 /* RESET */
