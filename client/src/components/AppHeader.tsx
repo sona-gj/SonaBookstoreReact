@@ -26,7 +26,7 @@ return (
         </section>
 
         <section className="header-menu">
-            <button className="menu-button on-highlight">Home</button>
+            <Link to={'/'} className="menu-button on-highlight">Home</Link>
             <div className="header-dropdown">
                 <HeaderDropdown/>
             </div>

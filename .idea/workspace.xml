@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ff6fdb3a-2c4c-4e75-8a3e-5ffcefd64017" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/assets/css/AppFooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/css/AppFooter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/assets/css/AppHeader.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/css/AppHeader.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/assets/css/CategoryBookListItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/css/CategoryBookListItem.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/assets/css/HeaderDropdown.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/css/HeaderDropdown.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/AppFooter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/AppFooter.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/AppHeader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/AppHeader.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -190,7 +186,7 @@
       <workItem from="1708406317399" duration="900000" />
       <workItem from="1708646764003" duration="13020000" />
       <workItem from="1708701351999" duration="3189000" />
-      <workItem from="1708708512189" duration="8909000" />
+      <workItem from="1708708512189" duration="11041000" />
     </task>
     <servers />
   </component>
