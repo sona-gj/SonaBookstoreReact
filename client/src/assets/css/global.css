@@ -130,9 +130,9 @@ textarea {
   Giving various sections of your page this utility class
   will ensure a nice padding around the contents.
 */
-.container {
-    padding: 1rem;
-}
+/*.container {*/
+/*    padding: 1rem;*/
+/*}*/
 
 /*
   Sometimes it's nice to have a section where the foreground
@@ -156,7 +156,7 @@ body {
 
     /* layout properties (not inherited) */
     margin: 0 auto;
-    max-width: 70rem;
+    /*max-width: 70rem;*/
 }
 
 /* BUTTONS */
@@ -168,21 +168,21 @@ body {
   and .secondary-button.
 */
 
-.button,
-.button:visited {
-    display: inline-block;
-    background: var(--primary-color);
-    color: white;
-    text-decoration: none;
-    padding: 0.5em 1em;
-    cursor: pointer;
-}
+/*.button,*/
+/*.button:visited {*/
+/*    display: inline-block;*/
+/*    background: var(--primary-color);*/
+/*    color: white;*/
+/*    text-decoration: none;*/
+/*    padding: 0.5em 1em;*/
+/*    cursor: pointer;*/
+/*}*/
 
-.button:hover,
-.button:active {
-    background: var(--primary-color-dark);
-    color: white;
-}
+/*.button:hover,*/
+/*.button:active {*/
+/*    background: var(--primary-color-dark);*/
+/*    color: white;*/
+/*}*/
 
 /* LINKS */
 

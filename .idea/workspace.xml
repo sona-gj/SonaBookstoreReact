@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff6fdb3a-2c4c-4e75-8a3e-5ffcefd64017" name="Changes" comment="" />
+    <list default="true" id="ff6fdb3a-2c4c-4e75-8a3e-5ffcefd64017" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/css/AppFooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/css/AppFooter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/css/AppHeader.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/css/AppHeader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/css/HeaderDropdown.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/css/HeaderDropdown.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/css/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/css/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/css/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/site/bookstore-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/images/site/bookstore-booklogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/AppFooter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/AppFooter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/AppHeader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/AppHeader.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/HeaderDropdown.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/HeaderDropdown.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +189,7 @@
       <updated>1708399300611</updated>
       <workItem from="1708399301719" duration="3422000" />
       <workItem from="1708406317399" duration="900000" />
-      <workItem from="1708646764003" duration="1924000" />
+      <workItem from="1708646764003" duration="10681000" />
     </task>
     <servers />
   </component>
