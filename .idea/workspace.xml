@@ -5,14 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff6fdb3a-2c4c-4e75-8a3e-5ffcefd64017" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/email-from-the-future.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/happy-place.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/hello-beautiful.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/lucky-stars:-a-sci-fi-comedy-series.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/rock-gods-&amp;-messy-monsters.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/ruby-and-lonely.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/the-bad-weather-friend.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/the-dangerous-ones.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/the-diary-of-a-sugarbaby.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/the-odyssey-of-fletcher.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/the-woman.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/they-named-him-primo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/things-we-never-got-over.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/assets/images/books/two-women-walk-into-a-bar.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/assets/css/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/css/Home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/assets/css/HomeCategoryList.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/css/CategoryBookList.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/css/CategoryBookList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/css/CategoryBookListItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/css/CategoryBookListItem.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/css/CategoryNav.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/css/CategoryNav.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/assets/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/css/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/AppFooter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/AppFooter.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Home.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/HomeCategoryList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/Blank" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/Emmail_from_the_future.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/Happy_Place.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/Lucky_Stars" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/Rock_Gods_Messy_gangsters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/Ruby_and_lonely" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/TheDangerousOnes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/The_DIary_of_a-sugarbaby" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/The_Odyssey_of_fletcher" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/The_Woman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/The_bad_weather-friend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/They_Named_him_Prime" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/Things_we_never_got_over.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/Two_women_walk_into_a_bar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/hello_beautiful.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/little-dorrit.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/moby-dick.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/the-brothers-karamazov.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/images/books/the-iliad.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/CategoryBookList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/CategoryBookList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/CategoryBookListItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/CategoryBookListItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/CategoryNav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/CategoryNav.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/types.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/types.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +82,16 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2cc82Jv9hYs68w1OIisWR12siWw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Gradle.Build server.executor": "Run",
     "Gradle.SonaBookstoreReact.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -186,7 +224,9 @@
       <updated>1708399300611</updated>
       <workItem from="1708399301719" duration="3422000" />
       <workItem from="1708406317399" duration="900000" />
-      <workItem from="1708646764003" duration="12911000" />
+      <workItem from="1708646764003" duration="13020000" />
+      <workItem from="1708701351999" duration="3189000" />
+      <workItem from="1708708512189" duration="4297000" />
     </task>
     <servers />
   </component>
@@ -209,5 +249,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

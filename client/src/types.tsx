@@ -8,6 +8,7 @@ export interface BookItem {
   title: string;
   author: string;
   price: number;
+  discountPrice: number;
   isPublic: boolean;
 }
 
@@ -15,46 +16,127 @@ export interface CategoryItem {
   categoryId: number;
   name: string;
 }
-export const categoryImages: Record<string, any> = {
-  classics: Classics,
-  fantasy : Fantasy,
-  mystery : Mystery,
-  romance : Romance
-};
+
 export const categoryList = [
-  { categoryId: 1001, name: "Classics" },
-  { categoryId: 1002, name: "Fantasy" },
-  { categoryId: 1003, name: "Mystery" },
-  { categoryId: 1004, name: "Romance" },
+  { categoryId: 1001, name: "Best Sellers" },
+  { categoryId: 1002, name: "New Releases" },
+  { categoryId: 1003, name: "Fiction" },
+  { categoryId: 1004, name: "Non-fiction" },
+  { categoryId: 1005, name: "Kids" },
+  { categoryId: 1006, name: "Games&Puzzles" },
 ];
 
 export const bookList = [
   {
     bookId: 1001,
-    title: "The Iliad",
-    author: "Homer",
-    price: 699,
-    isPublic: true,
+    title: "The Dangerous Ones",
+    author: "Laura Blackwood",
+    price: 1900,
+    discountPrice: 1699,
+    isPublic: false,
   },
   {
     bookId: 1002,
-    title: "The Brothers Karamazov",
-    author: "Fyodor Dostoevsky",
-    price: 1399,
+    title: "Hello Beautiful",
+    author: "Ann Napolitano",
+    price: 1900,
+    discountPrice: 1699,
     isPublic: false,
   },
   {
     bookId: 1003,
-    title: "Little Dorrit",
-    author: "Charles Dickens",
-    price: 599,
-    isPublic: true,
+    title: "Things We Never Got Over",
+    author: "Lucy Score",
+    price: 1900,
+    discountPrice: 1699,
+    isPublic: false,
   },
   {
     bookId: 1004,
-    title: "Moby Dick",
-    author: "Herman Melville",
-    price: 699,
+    title: "The Woman",
+    author: "Kristin Hannah",
+    price: 1900,
+    discountPrice: 1699,
+    isPublic: false,
+  },
+  {
+    bookId: 1005,
+    title: "Happy Place",
+    author: "Emily Henry",
+    price: 1900,
+    discountPrice: 1699,
     isPublic: true,
+  },
+  {
+    bookId: 1006,
+    title: "Email From The Future",
+    author: "Michael Rogers",
+    price: 1900,
+    discountPrice: 1699,
+    isPublic: false,
+  },
+  {
+    bookId: 1007,
+    title: "The Diary of a SugarBaby",
+    author: "J Q Gagliastro",
+    price: 1900,
+    discountPrice: 1699,
+    isPublic: true,
+  },
+  {
+    bookId: 1008,
+    title: "The Odyssey of Fletcher",
+    author: "Erik Dargitz",
+    price: 1900,
+    discountPrice: 1699,
+    isPublic: false,
+  },
+  {
+    bookId: 1009,
+    title: "Rock Gods & Messy Monsters",
+    author: "Diane Hatz",
+    price: 1900,
+    discountPrice: 1699,
+    isPublic: false,
+  },
+  {
+    bookId: 1010,
+    title: "Lucky Stars: A sci-fi comedy series",
+    author: "H. Claire Taylor",
+    price: 1900,
+    discountPrice: 1699,
+    isPublic: false,
+  },
+  {
+    bookId: 1011,
+    title: "The Bad Weather Friend",
+    author: "Dean Koontz",
+    price: 1900,
+    discountPrice: 1699,
+    isPublic: false,
+  },
+  {
+    bookId: 1012,
+    title: "They Named Him Primo",
+    author: "Jaka Tomc",
+    price: 1900,
+    discountPrice: 1699,
+    isPublic: true,
+  },
+  {
+    bookId: 1013,
+    title: "Two Women Walk into a Bar",
+    author: "Cheryl Strayed",
+    price: 1900,
+    discountPrice: 1699,
+    isPublic: false,
+  },
+  {
+    bookId: 1014,
+    title: "Ruby and Lonely",
+    author: "Patrice Karst",
+    price: 1900,
+    discountPrice: 1699,
+    isPublic: false,
   },
 ];

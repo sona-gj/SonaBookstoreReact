@@ -8,10 +8,11 @@ import {bookList,BookItem} from "../types";
 function CategoryBookList() {
   return (
       <><CategoryNav/>
-          <ul className="book-lists">
+          <section className="category-book-list">
+
               {bookList.map((book:BookItem) => (
-                  <CategoryBookListItem  bookId={book.bookId} isPublic={book.isPublic} price={book.price} title={book.title} author={book.author}/>))}
-          </ul>
+                  <CategoryBookListItem  bookId={book.bookId} isPublic={book.isPublic} price={book.price} discountPrice={book.discountPrice} title={book.title} author={book.author}/>))}
+          </section>
       </>
 )
 }

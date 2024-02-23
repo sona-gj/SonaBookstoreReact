@@ -1,21 +1,78 @@
 
-.category-buttons {
+/*.category-buttons {*/
+/*    display: flex;*/
+/*    flex-direction: row;*/
+/*    text-align: center;*/
+/*    background-color: var(--neutral-color);*/
+/*}*/
+
+/*.button.selected-category-button {*/
+/*    background-color: var(--primary-color);*/
+/*}*/
+
+/*.button.unselected-category-button,*/
+/*.button.unselected-category-button:visited {*/
+/*    background-color: var(--neutral-color);*/
+/*}*/
+
+/*.button.unselected-category-button:hover,*/
+/*.button.unselected-category-button:active {*/
+/*    background-color: var(--primary-color);*/
+/*}*/
+
+.category-nav{
+    height: 5.063rem;
+    align-items: center;
     display: flex;
-    flex-direction: row;
-    text-align: center;
-    background-color: var(--neutral-color);
+    justify-content: center;
 }
 
-.button.selected-category-button {
-    background-color: var(--primary-color);
+.category-nav .category-buttons {
+    display: flex;
+    gap: 2rem;
 }
 
-.button.unselected-category-button,
-.button.unselected-category-button:visited {
-    background-color: var(--neutral-color);
+.category-nav .category-buttons .unselected-category-list{
+    height: 81px;
+    font-family: 'Open Sans',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
 }
 
-.button.unselected-category-button:hover,
-.button.unselected-category-button:active {
-    background-color: var(--primary-color);
+.category-nav .category-buttons .selected-category-list{
+    padding-top : 1.95rem;
+}
+
+.category-nav .category-buttons .unselected-category-button{
+    color: #1C0461;
+}
+
+.category-nav .category-buttons .unselected-category-button:hover{
+    color: #1B76AA;
+}
+
+.category-nav .category-buttons .selected-category-button{
+    color: #1B76AA;
+}
+
+.category-nav .category-buttons a{
+    text-decoration: none;
+}
+
+.category-nav .category-buttons .selected-category{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.category-nav .category-buttons .selected-category-list .category-focus {
+    width: 6.5rem;
+    border: 2px solid #1B76AA;
+    border-radius:0.3rem;
 }

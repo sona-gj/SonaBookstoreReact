@@ -1,6 +1,7 @@
 import '../assets/css/CategoryNav.css'
 import '../assets/css/global.css'
 import { categoryList } from '../types';
+import {Link} from "react-router-dom";
 
 function CategoryNav() {
   return (
@@ -9,14 +10,11 @@ function CategoryNav() {
 
       {categoryList.map((category) => (
 
-          <li className="button unselected-category-button">
-            {category.name}
+          <li className="unselected-category-list">
+            <Link to={"/categories"} className="button unselected-category-button">{category.name}</Link>
+            <hr className="category-focus"/>
           </li>
-
-
-
-
-          ))}
+      ))}
 
     </ul>
   </nav>

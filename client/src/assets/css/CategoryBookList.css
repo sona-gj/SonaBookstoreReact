@@ -1,7 +1,9 @@
-
-.book-lists {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 1em;
-    gap: 1em;
+.category-book-list {
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 1.25rem;
+    padding-top:1rem;
+    padding-left:3rem;
+    padding-right:1rem;
+    padding-bottom: 2rem;
 }
