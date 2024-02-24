@@ -1,10 +1,12 @@
 
 import '../assets/css/global.css';
 import '../assets/css/Home.css'
+import {useNavigate} from "react-router-dom";
 
 
 
 function Home() {
+    const navigate = useNavigate();
     return (
 
         <div className="body home-page">
@@ -19,7 +21,7 @@ function Home() {
                     </p>
                 </div>
                 <div className="explore-now">
-                    <button className="explore-now-button"><label className="explore-now-text"> Explore Now</label>
+                    <button className="explore-now-button" onClick={() => navigate("/categories")}><label className="explore-now-text"> Explore Now</label>
                     </button>
                 </div>
             </section>

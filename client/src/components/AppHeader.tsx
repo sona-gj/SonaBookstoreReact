@@ -26,8 +26,8 @@ return (
         </section>
 
         <section className="header-menu">
-            <Link to={'/'} className="menu-button on-highlight">Home</Link>
-            <div className="header-dropdown">
+            <Link to={'/'} className={`menu-button ${location.pathname==='/' ? "on-highlight" : ""}`}>Home</Link>
+            <div className={`header-dropdown ${location.pathname === '/categories' ? "on-highlight" : ""}`}>
                 <HeaderDropdown/>
             </div>
         </section>

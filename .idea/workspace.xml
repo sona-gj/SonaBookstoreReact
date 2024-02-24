@@ -5,9 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff6fdb3a-2c4c-4e75-8a3e-5ffcefd64017" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/css/main.099f2fda.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/css/main.099f2fda.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/js/453.419a5d54.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/js/453.419a5d54.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/js/main.91422fdd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/js/main.91422fdd.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/js/main.91422fdd.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/media/81JIC8xLy7L._SY466_.ab5d78701da01c4967b3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/media/_12-Reasons-Reading-Can-Be-An-Excellent-Idea-For-Your-Employees 1.4c56565c7cbdb2d7ec24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/media/blank.8abfba78dbbc14d8694a.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/media/email-from-the-future.679fce1159d8bcaae70d.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/media/happy-place.4a2b132a18300cd20bcc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/media/hello-beautiful.8fe31ed65834bcce3543.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/media/lucky-stars:-a-sci-fi-comedy-series.e63041d1ffffe40463f0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/media/rock-gods-&amp;-messy-monsters.f7290373c5e153cc1197.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/media/ruby-and-lonely.99ab8051be8e2da4d828.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/media/the-bad-weather-friend.942f6aa71db090dcff4c.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/media/the-dangerous-ones.7241025c32c66883e62d.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/media/the-diary-of-a-sugarbaby.e805895efe9d81c902a0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/media/the-odyssey-of-fletcher.96a0004d9a81ffea3bf2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/media/the-woman.b4f1db975250f405612b.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/media/they-named-him-primo.2d281e3b6297f7d10210.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/media/things-we-never-got-over.42d428b1e90b2b471b65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/webapp/static/media/two-women-walk-into-a-bar.8aa9db8b44e863a93fc3.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/assets/css/HeaderDropdown.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/css/HeaderDropdown.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/css/CategoryNav.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/css/CategoryNav.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/AppHeader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/AppHeader.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/CategoryNav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/CategoryNav.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Home.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +95,7 @@
     "git-widget-placeholder": "develop",
     "jdk.selected.JAVA_MODULE": "17 (2)",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/sonagj/Documents/Virginia Tech/Sem 1/Courses/Web Application/Assignments/CS5244/SonaBookstoreReact",
+    "last_opened_file_path": "/home/sonagj/Documents/Virginia Tech/Sem 1/Courses/Web Application/Assignments/CS5244/SonaBookstoreReact/server/src/main/webapp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,7 +106,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JavaScript Debug.Debug Application">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server/src/main/webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -186,7 +226,9 @@
       <workItem from="1708406317399" duration="900000" />
       <workItem from="1708646764003" duration="13020000" />
       <workItem from="1708701351999" duration="3189000" />
-      <workItem from="1708708512189" duration="11041000" />
+      <workItem from="1708708512189" duration="11411000" />
+      <workItem from="1708728852230" duration="23000" />
+      <workItem from="1708728918444" duration="4868000" />
     </task>
     <servers />
   </component>
