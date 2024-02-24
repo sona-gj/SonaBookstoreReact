@@ -52,6 +52,11 @@ header {
     resize: none; /*remove the resize handle on the bottom right*/
 }
 
+.search-bar:focus{
+    font-size: 1rem;
+    font-family: 'Open Sans';
+}
+
 .search-bar::placeholder {
     font-family: 'Open Sans';
     font-style: normal;

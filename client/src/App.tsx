@@ -19,7 +19,7 @@ function App() {
               <Routes>
                   <Route path="/" element={<Home/>}/>
                   <Route path="/categories" element={<CategoryBookList/>}/>
-                  <Route path="*" element={<div>Page Not Found</div>}/>
+                  <Route path="*" element={<div className={"page-not-found"}>Page Not Found</div>} />
               </Routes>
               <AppFooter/>
       </Router>

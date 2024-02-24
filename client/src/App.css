@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.page-not-found{
+  min-height: 85.5vh;
+}
